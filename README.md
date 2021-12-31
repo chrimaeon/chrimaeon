@@ -7,7 +7,7 @@ I also started widen my knowledge to get into Web Technologies like Angular for 
 
 ### Personal Apps
 
-<a href="https://play.google.com/store/apps/developer?id=Christian+Grach&utm_source=Github&utm_campaign=Profile%20Page"><img height="60" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
+<a href="https://play.google.com/store/apps/developer?id=Christian+Grach&utm_source=Github&utm_campaign=Profile%20Page"><img height="60" alt="Get it on Google Play" src="art/Google_Play_Store_badge_EN.svg"/></a>
 
 
 ### Languages and Tools
