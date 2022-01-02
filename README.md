@@ -10,7 +10,7 @@ I also started widen my knowledge to get into Web Technologies like Angular for 
 <a href="https://play.google.com/store/apps/developer?id=Christian+Grach&utm_source=Github&utm_campaign=Profile%20Page"><img height="60" alt="Get it on Google Play" src="/art/Google_Play_Store_badge_EN.svg"/></a>
 
 
-### Languages, Tools, Framewoks, etc. 🔧
+### Languages, Tools, Framewoks, etc.  🔧
 
 <img align="left" alt="Android Studio" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/android-studio/android-studio.png" />
 <img align="left" alt="Kotlin" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/kotlin/kotlin.png" />
@@ -30,9 +30,11 @@ I also started widen my knowledge to get into Web Technologies like Angular for 
 <br />
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrimaeon "GitHub Stats")
+### Stats  📝
 
-### Where to find me 🔍
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrimaeon&hide_title=true "GitHub Stats")
+
+### Where to find me  🔍
 
 <a href="https://twitter.com/chrimaeon"><img alt="Twitter @chrimaon" src="https://img.shields.io/badge/@chrimaeon-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/christian-grach/"><img alt="Linkedin Christian Grach" src="https://img.shields.io/badge/Christian%20Grach-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
