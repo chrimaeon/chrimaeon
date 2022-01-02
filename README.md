@@ -30,4 +30,9 @@ I also started widen my knowledge to get into Web Technologies like Angular for 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrimaeon "GitHub Stats")
 
+### Where to find me
+
+<a href="https://twitter.com/chrimaeon"><img alt="Twitter @chrimaon" src="https://img.shields.io/badge/@chrimaeon-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/christian-grach/"><img alt="Linkedin Christian Grach" src="https://img.shields.io/badge/Christian%20Grach-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <sub>Google Play and the Google Play logo are trademarks of Google LLC.</sub>
