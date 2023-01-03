@@ -12,19 +12,22 @@ I also started widen my knowledge to get into Web Technologies like Angular for 
 
 ### Languages, Tools, Framewoks, etc.  🔧
 
-<img align="left" alt="Android Studio" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/android-studio/android-studio.png" />
-<img align="left" alt="Kotlin" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/java/java.png" />
+<img align="left" alt="Android Studio" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/android-studio/android-studio.png" />
+<img align="left" alt="Android" height="40" src="https://github.com/github/explore/blob/7499907e93fd674c63ebf6ec18265cf2628ceba1/topics/android/android.png" />
+<img align="left" alt="Kotlin" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/kotlin/kotlin.png" />
+<img align="left" alt="Java" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/java/java.png" />
+<img align="left" alt="Flutter" height="40" src="https://github.com/github/explore/blob/7499907e93fd674c63ebf6ec18265cf2628ceba1/topics/flutter/flutter.png" />
+<img align="left" alt="Dart" height="40" src="https://github.com/github/explore/blob/7499907e93fd674c63ebf6ec18265cf2628ceba1/topics/dart/dart.png" />
 <img align="left" alt="Gradle" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/gradle/gradle.png" />
-<img align="left" alt="Javascript" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/typescript/typescript.png" />
-<img align="left" alt="Angular" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/angular/angular.png" />
-<img align="left" alt="Nest.js" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/nestjs/nestjs.png" />
-<img align="left" alt="PHP" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/php/php.png" />
-<img align="left" alt="Python" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/python/python.png" />
-<img align="left" alt="Git" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/git/git.png" />
-<img align="left" alt="Docker" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/docker/docker.png" />
-<img align="left" alt="Actions" height="40px" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/actions/actions.png" />
+<img align="left" alt="Javascript" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/typescript/typescript.png" />
+<img align="left" alt="Angular" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/angular/angular.png" />
+<img align="left" alt="Nest.js" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/nestjs/nestjs.png" />
+<img align="left" alt="PHP" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/php/php.png" />
+<img align="left" alt="Python" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/python/python.png" />
+<img align="left" alt="Git" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/git/git.png" />
+<img align="left" alt="Docker" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/docker/docker.png" />
+<img align="left" alt="Actions" height="40" src="https://github.com/github/explore/blob/748fe455e55b63d8cdc9f24b3503677deb33c79e/topics/actions/actions.png" />
 
 <br />
 <br />
