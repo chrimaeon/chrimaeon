@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm a highly experienced Android App Developer started with Android 2.3 in 2011. I have created Apps together with Lynda.com/Linkedin and PicMonkey.
+With over a decade of experience, I started my career in Android development with version 2.3 in 2011, working on apps with platforms like Lynda.com/LinkedIn and PicMonkey.
 
-I also started widen my knowledge to get into Web Technologies like Angular for Frontend and Nest.js for Backend development.
+Currently, my focus is on Flutter projects and Compose Multiplatform development. 
+
+Over the past years as a Software Architect, I’ve specialized in designing scalable and efficient software solutions, driving innovation across both mobile and web platforms.
 
 
 ### My Apps on Google Play
